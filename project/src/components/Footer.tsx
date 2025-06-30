@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
               Your one-stop destination for quality products at competitive prices.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://github.com/AkarshanGupta" className="text-gray-400 hover:text-white transition-colors">
                 <Github className="w-5 h-5" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
